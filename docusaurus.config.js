@@ -62,12 +62,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Quick Start',
-          },
-          {
             href: 'https://github.com/NethermindEth/rpc-docs',
             label: 'GitHub',
             position: 'right',
@@ -77,15 +71,6 @@ const config = {
       footer: {
         style: 'light',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Quick Start',
-                to: '/',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
@@ -103,8 +88,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/NethermindEth/rpc-docs',
+                label: 'File a bug in these docs',
+                href: 'https://github.com/NethermindEth/rpc-docs/issues',
               },
             ],
           },
