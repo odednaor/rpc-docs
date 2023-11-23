@@ -8,7 +8,7 @@ title: API key
 
 You may pass your API key in a header or in the query string.
 
-Some client SDKs situations like the Starknet React providers only work with the query string approach. Everywhere else, it's preferable to use the header approach.
+Some client SDKs situations only work with the query string approach. Everywhere else, it's preferable to use the header approach.
 
 ### Header
 
