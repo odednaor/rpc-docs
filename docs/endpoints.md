@@ -14,16 +14,32 @@ Nethermind's endpoints for Starknet RPC are as follows.
 https://rpc.nethermind.io/mainnet-juno/
 ```
 
+#### Sepolia
+
+```
+https://rpc.nethermind.io/sepolia-juno/
+```
+
+#### Integration
+
+```
+https://rpc.nethermind.io/integration-sepolia-juno/
+```
+
+## Deprecated endpoints
+
+The ecosystem is moving off `Goerli` and onto `Sepolia` at the moment.
+
 #### Goerli
 
 ```
 https://rpc.nethermind.io/goerli-juno/
 ```
 
-#### Integration
+#### Integration (Goerli)
 
 ```
-https://rpc.nethermind.io/integration-juno/
+https://rpc.nethermind.io/integration-goerli-juno/
 ```
 
 ## Schemes
